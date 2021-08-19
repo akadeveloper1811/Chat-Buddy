@@ -1,6 +1,5 @@
 # chatbuddy
-
-A new Flutter project.
+Chat App
 
 ## Getting Started
 
